@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CrearActividades</string>
+
+    <string name="info">Esta es una actividad que lleva a otra mediante un botón.</string>
+    <string name="pasaractividad2">Pasar Información</string>
+
+    <string name="info2">Esta es la segunda actividad.</string>
+    <string name="info2_land">Esta es la segunda actividad en LAND.</string>
+    <string name="enviar_info">Enviar información.</string>
+    <string name="name">Nombre</string>
+    <string name="age">Edad</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="mostrar_edad">Tu edad es de %s años</string>
+
+</resources>
